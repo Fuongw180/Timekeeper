@@ -1,0 +1,13 @@
+{
+    "type": "mssql",
+    "host": "14.241.82.32",
+    "port": 1433,
+    "username": "sa",
+    "password": "@aht12345",
+    "database": "WiseEyeMix3",
+    "logging": true,
+    "options": {
+        "trustServerCertificate": true
+    },
+    "entities": ["src/app/model/*.ts"]
+}
