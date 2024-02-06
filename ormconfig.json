@@ -9,5 +9,5 @@
     "options": {
         "trustServerCertificate": true
     },
-    "entities": ["src/app/model/*.ts"]
+    "entities": ["src/config/db/entities/*.ts"]
 }
